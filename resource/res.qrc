@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/add_dir.ico</file>
+        <file>icon/again.ico</file>
+        <file>icon/list_loop.ico</file>
+        <file>icon/next.ico</file>
+        <file>icon/pause.ico</file>
+        <file>icon/play.ico</file>
+        <file>icon/pre.ico</file>
+        <file>icon/random.ico</file>
+        <file>icon/client.ico</file>
+        <file>icon/volume_high.ico</file>
+        <file>icon/volume_low.ico</file>
+        <file>icon/volume_zero.ico</file>
+        <file>configure/type_constraints.txt</file>
+    </qresource>
+</RCC>
